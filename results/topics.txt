@@ -1,0 +1,92 @@
+preprocessed data with data length greter than 20 and total topics 30
+
+The top 20 words for topic #0:
+using, learning, meth, android, jio, did, pass, blood, know, possible, negative, app, drug, does, use, sim, language, english, test, earth
+
+The top 20 words for topic #1:
+distance, long, book, successful, know, way, person, use, java, best, online, need, programming, web, people, big, want, learn, like, start
+
+The top 20 words for topic #2:
+text, doesn, friends, girlfriend, says, just, person, talk, people, ex, friend, boyfriend, know, don, guy, girl, feel, mean, like, does
+
+The top 20 words for topic #3:
+wants, loves, break, lakes, fall, edmonton, auckland, great, time, just, described, wife, compare, cities, woman, drive, man, car, love, does
+
+The top 20 words for topic #4:
+virtual, particles, mean, yes, space, expansion, mass, expands, real, limit, dark, exist, potential, light, vacuum, universe, created, does, infinite, energy
+
+The top 20 words for topic #5:
+use, attack, using, amazon, ca, head, long, facebook, war, digit, numbers, end, indian, think, way, world, pakistan, people, does, india
+
+The top 20 words for topic #6:
+equation, sum, value, elections, muslims, time, military, like, point, print, equal, america, forces, rate, indian, muslim, did, country, does, math
+
+The top 20 words for topic #7:
+got, invest, years, die, having, week, passed, capital, time, driving, weeks, day, license, pregnant, times, ago, period, month, sex, days
+
+The top 20 words for topic #8:
+team, happen, startup, candidate, family, service, win, civil, ideas, people, good, business, presidential, follow, election, donald, hillary, clinton, idea, trump
+
+The top 20 words for topic #9:
+business, start, live, change, need, friends, wants, help, age, 20, parents, girl, good, best, don, life, years, old, year, want
+
+The top 20 words for topic #10:
+build, smart, cost, think, war, claim, like, use, does, insurance, uk, time, world, japan, country, power, china, usa, countries, india
+
+The top 20 words for topic #11:
+way, loan, status, transfer, change, file, credit, pay, open, friend, india, income, green, laws, tax, money, facebook, bank, card, account
+
+The top 20 words for topic #12:
+phone, going, hair, quality, species, places, app, best, party, battery, date, available, charge, days, time, vote, data, visit, good, buy
+
+The top 20 words for topic #13:
+pros, face, cons, currency, ban, white, new, indian, government, modi, india, 2000, decision, rupee, money, rs, black, 1000, 500, notes
+
+The top 20 words for topic #14:
+network, look, glass, long, did, site, circle, traffic, water, make, starting, point, users, area, group, school, ticket, high, women, men
+
+The top 20 words for topic #15:
+data, differences, create, 100, does, life, people, just, change, used, kill, usb, 000, power, eye, land, best, way, address, use
+
+The top 20 words for topic #16:
+marriage, tips, changes, inside, india, speed, like, making, change, body, happen, probability, time, relationship, human, rest, life, brain, cards, want
+
+The top 20 words for topic #17:
+exams, rank, 12th, prepare, student, iit, study, admission, year, got, college, science, 2017, good, jee, 2016, marks, class, exam, score
+
+The top 20 words for topic #18:
+mbbs, single, world, h1b, percentile, did, day, apply, certificate, date, citizen, uk, people, travel, birth, cat, like, passport, new, visa
+
+The top 20 words for topic #19:
+recovery, experiment, slit, remember, windows, access, galaxy, card, double, laptop, gmail, lost, dark, account, don, matter, email, password, phone, number
+
+The top 20 words for topic #20:
+person, legal, different, don, morning, work, united, uber, water, pain, night, hour, want, sleep, day, does, hours, game, make, time
+
+The top 20 words for topic #21:
+blue, native, people, reading, send, half, size, did, delete, instagram, just, use, country, messages, does, music, whatsapp, sent, read, message
+
+The top 20 words for topic #22:
+screen, classes, elected, best, new, budget, website, shows, star, movie, iphone, does, physics, order, series, movies, think, watch, tv, president
+
+The top 20 words for topic #23:
+people, including, notes, new, government, rupees, 1000, impact, money, 500, indian, note, gifts, invited, visitor, time, good, bring, foreign, home
+
+The top 20 words for topic #24:
+governments, war, narendra, ww1, ones, contributions, leaders, islands, compared, political, somme, cambodia, significance, contrast, major, did, earthquake, compare, effects, battle
+
+The top 20 words for topic #25:
+lake, united, gobi, states, cold, temperatures, hill, station, ones, compare, harassment, couples, unmarried, moral, average, staff, desert, safe, hotel, police
+
+The top 20 words for topic #26:
+hr, heard, easily, neet, companies, just, search, company, answers, asked, offer, interview, like, google, answer, people, question, questions, ask, quora
+
+The top 20 words for topic #27:
+come, know, state, want, quote, youtube, world, mother, father, born, said, child, like, say, make, life, india, did, does, god
+
+The top 20 words for topic #28:
+tech, like, mba, ms, course, engineer, year, working, india, university, degree, software, good, experience, want, student, company, engineering, work, job
+
+The top 20 words for topic #29:
+straight, religion, grow, diet, exercise, believe, 10, feet, kg, gain, engine, like, fat, body, lose, height, movie, true, people, weight
+
