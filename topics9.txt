@@ -1,0 +1,32 @@
+preprecessed topics for quora questions
+
+The top 20 words for topic #0:
+kg, war, compared, height, weight, hill, station, cambodia, compare, harassment, couples, unmarried, moral, staff, major, safe, earthquake, effects, hotel, police
+
+The top 20 words for topic #1:
+information, galaxy, don, using, double, number, android, dark, gmail, app, phone, matter, does, somme, contrast, significance, compare, data, did, battle
+
+The top 20 words for topic #2:
+note, country, does, business, gb, buy, modi, decision, number, bank, rupee, indian, government, card, rs, new, black, notes, money, india
+
+The top 20 words for topic #3:
+traffic, exist, numbers, big, dark, god, limit, laws, cities, potential, use, drive, vacuum, compare, universe, mean, created, infinite, energy, does
+
+The top 20 words for topic #4:
+start, long, water, way, month, car, gobi, language, temperatures, want, cold, best, great, learn, ones, compare, make, desert, does, average
+
+The top 20 words for topic #5:
+countries, united, donald, clinton, india, like, think, indian, work, bring, states, world, president, foreign, people, did, home, time, trump, good
+
+The top 20 words for topic #6:
+degree, career, computer, study, got, experience, science, math, th, school, university, old, college, student, engineering, good, job, want, years, year
+
+The top 20 words for topic #7:
+high, hand, world, work, human, car, best, possible, live, like, light, run, day, make, speed, long, earth, time, life, does
+
+The top 20 words for topic #8:
+relationship, friends, quora, think, time, mean, person, life, friend, guy, know, love, want, just, feel, girl, don, does, like, people
+
+The top 20 words for topic #9:
+send, instagram, number, iphone, used, know, app, address, sent, message, password, whatsapp, use, phone, email, company, does, facebook, like, account
+
