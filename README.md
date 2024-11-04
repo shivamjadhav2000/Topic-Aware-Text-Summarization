@@ -1,6 +1,6 @@
 # Title: Topic-Aware Text Summarization Using Neural Topic Modeling and Summarization Models
 
-![Model Architecture Diagram](Workflow.png)
+![Model Architecture Diagram](TOPIC_AWARE_TEXT_SUMMARIZATION.png)
 
 ---
 
@@ -36,7 +36,7 @@ In this project, we will focus on building a two-phase model. In the first phase
 ---
 
 ## 5. Dataset
-
+https://www.udemy.com/course/nlp-natural-language-processing-with-python/
 For this project, we will use the **Quora Questions dataset** provided in the project ideas file, which contains questions on a variety of topics. This dataset is suitable for extractive and abstractive summarization tasks and will help in training and evaluating the performance of our model. Additional datasets such as the Amazon Product Reviews dataset may be used for experiments with topic-specific summarization in the review domain.
 
 - **Size**: The Quora Questions dataset contains over 400,000 questions.
@@ -44,3 +44,5 @@ For this project, we will use the **Quora Questions dataset** provided in the pr
 - **Preprocessing**: Before analysis, the text will be cleaned by removing unnecessary characters, and tokenization will be applied. For topic modeling, we will also experiment with stop-word removal and lemmatization to improve the quality of the topics extracted.
 
 ---
+
+https://www.udemy.com/course/nlp-natural-language-processing-with-python/
