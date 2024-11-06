@@ -5,8 +5,8 @@ Topic: General
 
 Total number of questions: 13445
 
-Total No of tokens:319208
-No of tokens in summary:27833
+Total No of tokens  in this Topic  in this Topic : 319208
+Total No of tokens  in this Topic  in summary :27833
 Summary: as a human rights advocate and lesbian, i want to know, when is it ok to state your opinions on an issue? i have 2.6 years of it experience. i left my job 1.5 years back due to some family issues. what is the possibility for women to get a job in it after 1.5 years gap?
 
 a b.e. in electrical & electronics working as a field service engineer in siemens ltd . i want to take up a major in philosophy, history or english, but i don't want to work in it field . university of toledo has a bachelors degree in biology .
@@ -1259,8 +1259,8 @@ Topic: Gun Safety Regulations
 
 Total number of questions: 648
 
-Total No of tokens:14845
-No of tokens in summary:1408
+Total No of tokens in this Topic :14845
+Total No of tokens in summary :1408
 Summary: fictief: if someone shoots a bullet between her eyes, is there a smallest chance that i could survive? if two guns were pointed barrel to barrel, the bullet would enter the other barrel . if a person is convicted of murder, the "victim" framed them for murder and faked their own death .
 
 acquitting a murderer and setting them free is worse than sending an innocent person to jail . in movies i often see people hold guns at each other in a standoff . if i fire a gun vertically up to the sky, could somebody get hit by the returning bullet and die?
@@ -1325,8 +1325,8 @@ Topic: Drug Testing and Probability
 
 Total number of questions: 2371
 
-Total No of tokens:59078
-No of tokens in summary:5396
+Total No of tokens in this Topic : 59078
+Total No of tokens in summary :5396
 Summary: a lady buys goods worth 200 bucks from a shop & pays with a banknote worth 1000 bucks . the shopkeeper gets the change & keeps 200 for himself & returns 800 . after sometime the next shop owner returns the 1000 note saying it is fake .
 
 aloe vera gel blends with natural oils like jojoba oil, vitamin e oil, and evening primrose oil . "i have not been running for last 10 days, and my planta fasciitis pain has decreased" "a and b can finish a work together in 12 days, b and c together in 16 days"
@@ -1563,8 +1563,8 @@ Topic: Job Prospects by Major
 
 Total number of questions: 4077
 
-Total No of tokens:96787
-No of tokens in summary:8252
+Total No of tokens in this Topic: 96787
+Total No of tokens in summary :8252
 Summary: 25-year-old is currently at a 9-5 with a bike company . he is looking for concepts that exist in one language but not commonly, if at all, in another . "i am currently in 11th standard and i'm facing serious dilemas," he says .
 
 i'm 14 and my vocal range is from e2 to a5 (legarro tenor) i have difficulties using my mixed voice in c5 to f5. it sounds really strained and i want to know how to use it properly . i was rejected by google on my first try for a position of swe at mountain view .
@@ -1949,9 +1949,9 @@ Topic: Dating and Communication
 
 Total number of questions: 1798
 
-Total No of tokens:46717
+Total No of tokens in this Topic: 46717
 
-No of tokens in summary:4730
+Total No of tokens in summary :4730
 Summary: i have been using my girlfriend for sex for the last year . she loves me more than anyone else ever has, and she would do anything for me . i'm not the happy, outgoing person i used to be . but sometimes i want to message him & tell him how much i miss him .
 
 i love my best friend but he keeps cheating on me . i can't say "no" to him because he doesn't want a relationship . my mother-in-law needs rest and someone to help her in daily chores .
@@ -2140,8 +2140,8 @@ Topic: Universe and Energy
 
 Total number of questions: 2177
 
-Total No of tokens:51850
-No of tokens in summary:4852
+Total No of tokens in this Topic: 51850
+Total No of tokens in summary :4852
 Summary: i've had a drastic change from being an extrovert and happy person to an introvert after a heartbreak . i am the first on earth, the second in heaven and i appear twice in a week . as an experiment, i try to help a guy who asks me if he should die and he tells him not to .
 
 "i am a 20 year old international freshman in my dream university in the us" "i have no motivation at all. all i want to do is sit around and procrastinate while doing things that seem "fun even" "if i can't do this, i'm going to die," says aaron ramsey .
@@ -2350,9 +2350,9 @@ Topic: Snapchat Account Recovery
 
 Total number of questions: 1751
 
-Total No of tokens:43137
+Total No of tokens in this Topic: 43137
 
-No of tokens in summary:4180
+Total No of tokens in summary :4180
 Summary: in america most people have a cell phone data plan by the month . in the philippines and many other countries, you buy data by time . will this affect my passport and visa verifications?
 
 i have a birth certificate from my native state in india, but all my other certificates including passport, schooling certificates and address proofs are from another state where i currently live . if a child was born in south korea but the mother was a us citizen, then is the child considered american? if the father didn't want the child to come to the states after the birth would he have the legal right?
@@ -2527,9 +2527,9 @@ Topic: Cambodia Earthquake and Historical Battles
 
 Total number of questions: 4468
 
-Total No of tokens:97861
+Total No of tokens in this Topic: 97861
 
-No of tokens in summary:8765
+Total No of tokens in summary :8765
 Summary: i'm designing an android app which can be used to increase the safety of driving . a liberal democracy has open elections and a libertarian ruler with unlimited power .
 
 saloni kapoor is a reserved category student in aiims delhi . he was shocked to see 67 seats given to the aap in the assembly election . hasn't the time come to change this state of mind? how can we do it?

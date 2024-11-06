@@ -1,0 +1,23 @@
+preprocessed data with data length greter than 20 and total topics 6
+
+The top 20 words for topic #0:
+president, tax, state, great, cold, car, drive, significance, change, temperature, lake, contrast, city, make, tramp, india, average, desert, battle, compare
+
+The top 20 words for topic #1:
+engineering, time, start, india, college, make, university, experience, live, student, good, job, old, feel, work, life, like, people, want, year
+
+The top 20 words for topic #2:
+start, way, lose, long, make, video, new, password, day, learn, work, card, buy, want, email, number, pp, account, phone, use
+
+The top 20 words for topic #3:
+man, english, passport, woman, period, country, big, world, indian, make, force, state, india, cambodia, war, movie, compare, earthquake, major, effect
+
+The top 20 words for topic #4:
+indian, good, bring, time, foreign, government, harassment, unmarried, moral, staff, black, money, couple, safe, 1000, 500, rule, hotel, note, police
+
+The top 20 words for topic #5:
+want, relationship, talk, use, universe, think, infinite, tell, make, friend, know, guy, create, love, time, girl, mean, energy, say, like
+
+The top 20 words for topic #6:
+goose, mark, person, book, send, write, message, good, use, exam, know, ask, need, people, answer, time, quota, company, like, question
+
