@@ -1,0 +1,32 @@
+topic modeling NMF used 10 topics
+
+The top 20 words for topic #0:
+deolo, ooty, srinagar, manali, kolkata, shimla, ananthagiri, pune, nallamala, hills, hill, station, harassment, couples, moral, unmarried, staff, safe, hotel, police
+
+The top 20 words for topic #1:
+know, differ, say, feel, wildlife, convictions, matter, great, says, work, long, water, come, person, make, lakes, lake, compare, mean, does
+
+The top 20 words for topic #2:
+nanshan, leningrad, gobi, cold, borodino, rostov, bataan, average, temperatures, ones, port, arthur, calabria, desert, somme, significance, contrast, compare, did, battle
+
+The top 20 words for topic #3:
+way, number, student, just, account, need, life, engineering, work, make, start, job, best, know, don, old, years, india, year, want
+
+The top 20 words for topic #4:
+currency, banning, note, rupees, introducing, modi, ban, decision, india, government, indian, 2000, new, rs, rupee, black, money, 1000, 500, notes
+
+The top 20 words for topic #5:
+1700, 1922, vallenar, 1611, 1957, andreanof, great, sanriku, gobi, cold, islands, temperatures, average, ones, desert, cambodia, major, compare, earthquake, effects
+
+The top 20 words for topic #6:
+know, mean, exist, expanding, conserved, virtual, particles, potentiality, real, gravitational, expansion, limit, expands, dark, potential, universe, vacuum, created, infinite, energy
+
+The top 20 words for topic #7:
+way, speed, just, did, test, bad, idea, best, day, job, days, long, invited, gifts, visitor, bring, foreign, home, good, time
+
+The top 20 words for topic #8:
+person, facebook, things, make, use, ask, look, did, google, questions, life, think, girl, quora, know, don, just, feel, people, like
+
+The top 20 words for topic #9:
+4a, roots, 10, _0, line, 100, discrete, 16, beta, let, equation, bin, sim, number, sum, alpha, value, text, frac, math
+
